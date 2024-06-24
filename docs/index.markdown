@@ -4,6 +4,9 @@ permalink: /
 categories: projects
 ---
 
+
+<link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+<link rel="stylesheet" href="css/fontawesome.all.min.css">
 <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600,400italic,600italic,300,300italic' rel='stylesheet' type='text/css'>
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>Bottom-Up Skill Discovery from Unsegmented Demonstrations for Long-Horizon Robot Manipulation</title>
@@ -24,11 +27,12 @@ var _POPUP_FEATURES = 'width=500,height=300,resizable=1,scrollbars=1,titlebar=1,
 <style type="text/css" media="all">
 body {
     font-family: "Titillium Web","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    font-weight:300;
+    font-weight:30!important;
     font-size:18px;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+    line-height: 120%;
   }
   
   h1 {
